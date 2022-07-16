@@ -30,5 +30,5 @@ Authorization: Basic base64(username:password)
 ```
 DELETE /api/product/{productId} HTTP/1.1
 Host: localhost:3333
-Authorization: Basic base64(username:password)
+Authorization: Basic base64(username :password)
 ```
